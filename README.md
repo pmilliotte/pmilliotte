@@ -19,5 +19,5 @@
 
 ## 📺 Talks
 
-- 2021 🇫🇷 [AWS Step Functions: présentation détaillée du service](https://youtu.be/3v7yft_AVuA) @ [Theodo](https://www.theodo.fr/)
+- 2022 🇫🇷 [AWS Step Functions: présentation détaillée du service](https://youtu.be/3v7yft_AVuA) @ [Theodo](https://www.theodo.fr/)
 - 2021 🇫🇷 [Maîtrisez votre configuration Serverless / Cloudformation](https://youtu.be/K-_RcoFzZ-I?t=3434) @ [HumanTalks](https://humantalks.com)
