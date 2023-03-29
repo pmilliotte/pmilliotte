@@ -6,8 +6,9 @@
 
 ## 🚀 Projects
 
-- [pmilliotte/dynamodb-toolbox-integrations](https://github.com/pmilliotte/dynamodb-toolbox-integrations): A set of CDK constructs easing the use of dynamodb-toolbox in functionless architectures
-- [pmilliotte/documentdb-lambda-connection](https://github.com/pmilliotte/documentdb-lambda-connection): CDK construct to connect to Documentdb from Lambda
+- [dynamodb-toolbox-integrations](https://github.com/pmilliotte/dynamodb-toolbox-integrations): A set of CDK constructs easing the use of dynamodb-toolbox in functionless architectures
+- [documentdb-lambda-connection](https://github.com/pmilliotte/documentdb-lambda-connection): CDK construct to connect to Documentdb from Lambda
+- [step-functions-demo](https://github.com/pmilliotte/step-functions-demo): A repo helpful to understand AWS Step Functions features
 
 ## 📖 Articles
 
